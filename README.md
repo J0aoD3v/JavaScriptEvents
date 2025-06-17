@@ -127,4 +127,3 @@ Este exercício prático permitiu explorar os seguintes conceitos:
 ## 📝 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
